@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Tienda_en.qm</file>
+        <file>Tienda_fr.qm</file>
+    </qresource>
+</RCC>
